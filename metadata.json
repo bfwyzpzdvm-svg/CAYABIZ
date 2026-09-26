@@ -1,0 +1,6 @@
+{
+  "name": "CAYABIZ - Cagayan Valley Business Location Intelligence",
+  "description": "AI-Powered Business Location and Market Intelligence System for Cagayan Valley (Region II) covering Cagayan, Isabela, Nueva Vizcaya, Quirino, and Batanes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
